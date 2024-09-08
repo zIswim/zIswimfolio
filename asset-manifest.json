@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zIswimfolio/static/css/main.14091a07.css",
-    "main.js": "/zIswimfolio/static/js/main.a7743c8d.js",
+    "main.js": "/zIswimfolio/static/js/main.180f461f.js",
     "static/css/64.bba8fa55.chunk.css": "/zIswimfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/zIswimfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/zIswimfolio/static/css/769.b3cbb36b.chunk.css",
@@ -26,7 +26,7 @@
     "index.html": "/zIswimfolio/index.html",
     "static/media/talksCardBack.svg": "/zIswimfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.14091a07.css.map": "/zIswimfolio/static/css/main.14091a07.css.map",
-    "main.a7743c8d.js.map": "/zIswimfolio/static/js/main.a7743c8d.js.map",
+    "main.180f461f.js.map": "/zIswimfolio/static/js/main.180f461f.js.map",
     "64.bba8fa55.chunk.css.map": "/zIswimfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/zIswimfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/zIswimfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.14091a07.css",
-    "static/js/main.a7743c8d.js"
+    "static/js/main.180f461f.js"
   ]
 }
